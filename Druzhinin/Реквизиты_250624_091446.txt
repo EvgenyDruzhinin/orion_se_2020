@@ -1,0 +1,16 @@
+Получатель: ДРУЖИНИН ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+Номер счёта: 40824810438040152452
+Банк получателя: ПАО Сбербанк
+БИК: 044525225
+Корреспондентский счёт: 30101810400000000225
+ИНН: 7707083893
+Почтовый адрес банка: г.Москва, г.Зеленоград, Савелкинский проезд, 6
+: Для переводов в валюте
+Beneficiary name: DRUZHININ EVGENII ALEKSANDROVICH
+Beneficiary account: 40824810438040152452
+Beneficiary bank: Sberbank, Moscow, Russian Federation
+SWIFT-код: SABRRUMM
+Correspondent Bank (EUR): Deutsche Bank AG, Frankfurt am Main
+Correspondent SWIFT (EUR): DEUTDEFF
+Correspondent Bank (USD): The Bank of New York Mellon, New York
+Correspondent SWIFT (USD): IRVTUS3N
